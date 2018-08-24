@@ -1,0 +1,6 @@
+*.blah
+!test.blah
+/blah
+blah/
+blah/*.txt
+blah/**/*.txt
